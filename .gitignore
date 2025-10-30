@@ -1,0 +1,19 @@
+# Exclude the native binary - this will be symlinked during installation
+resources/native-binary/claude
+
+# Node modules if any
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Build outputs
+*.vsix
+
+# Logs
+*.log
