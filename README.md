@@ -22,8 +22,4 @@ If you miss the Terminal-style experience of the previous extension, don’t wor
 
 ## Docs
 
-See our [documentation](https://docs.claude.com/en/docs/claude-code/ide-integrations) for more information on using the VS Code extension.
-
-## Known Issues
-
-This is an early release and may contain bugs or incomplete features.
+See our [documentation](https://code.claude.com/docs/en/vs-code) for more information on using the VS Code extension.
